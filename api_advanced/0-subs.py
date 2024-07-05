@@ -2,6 +2,9 @@
 """
 Queries the Reddit API and returns the number of subscribers for a given subreddit.
 
+This module provides a function to get the number of subscribers for a given subreddit.
+It uses the Reddit API to fetch the data.
+
 Args:
     subreddit (str): The name of the subreddit.
 
